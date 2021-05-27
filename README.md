@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Teltondor
+- 👀 I’m interested in growing my skills in web and application design. In particular, I have a background in graphic design and so eventually look to get into UI, UX.
+- 🌱 I’m currently learning the basics of Python to start off with and form a strong foundation in understanding coding
+- 💞️ I’m looking to collaborate on anything that could be within my (at least so far) somewhat limited skillset :) 
