@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Teltondor
 - 👀 I’m interested in growing my skills in web and application design. In particular, I have a background in graphic design and so eventually look to get into UI, UX.
 - 🌱 I’m currently learning the basics of Python to start off with and form a strong foundation in understanding coding, while starting to dip my toes into HTML, CSS and integrating them all with Flask.
+- I also have some experience in JavaScript through creating scripts for Google and Microsoft Ads accounts.
